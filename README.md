@@ -1,0 +1,3 @@
+# Snow_Boarder
+This repository contains a classic surfer game where the player takes on the role of a surfer on a surfboard, navigating through various challenges to reach the end point. The game features an immersive surfing experience with vibrant visuals and exciting gameplay. Players will have to skillfully maneuver their surfer to overcome obstacles such as waves, rocks, and other hazards while collecting points along the way. With intuitive controls and progressively challenging levels, the game offers an enjoyable and addictive experience for players of all ages.
+Join the adventure, ride the waves, and see if you can conquer all the challenges in this thrilling surfer game
