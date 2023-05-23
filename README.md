@@ -7,7 +7,7 @@ This repository contains a classic surfer game where the player takes on the rol
 - Realistic sound effects that enhance the surfing experience
 - Stunning particle systems for impressive visual effects
 
-![Screenshot 1](Screenshot_1.png) ![Screenshot 2](Screenshot _2.png) ![Screenshot 3](Screenshot _3.png)
+![Screenshot 1](Screenshot_1.png) ![Screenshot 2](Screenshot_2.png) ![Screenshot 3](Screenshot_3.png)
 
 Join the adventure, ride the waves, and see if you can conquer all the challenges in this thrilling surfer game!
 
